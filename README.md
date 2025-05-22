@@ -2,7 +2,7 @@
 Crack hashes or find collisions for hashes hashed with the [FNV-1a](https://en.wikipedia.org/wiki/Fowler–Noll–Vo_hash_function#FNV-1a_hash) algorithm without full brute force
 
 # CREDITS
-Huge thank you to [Nico-Posada](https://github.com/Nico-Posada) for the major help and [ConnorM](https://connor-mccartney.github.io) for his [incredible writeup](https://connor-mccartney.github.io/cryptography/other/Trying-to-crack-COD-FNV-hashes) and writing the original python proof of concept of which this is based off of. He does some incredible work with cryptography and his writeups are worth a read.
+Huge thank you to my teammates [Nico-Posada](https://github.com/Nico-Posada) for the major help and [ConnorM](https://connor-mccartney.github.io) for his [incredible writeup](https://connor-mccartney.github.io/cryptography/other/Trying-to-crack-COD-FNV-hashes) and writing the original python proof of concept of which this is based off of. He does some incredible work with cryptography and his writeups are worth a read.
 
 # Requirements
 This project requires the following libraries:<br/>
